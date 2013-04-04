@@ -22,7 +22,10 @@
         "component": {
             "scripts": [
                 "underscore.js"
-            ]
+            ],
+            "shim": {
+                "exports": "_"
+            }
         }
     }
 }
