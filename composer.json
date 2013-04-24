@@ -23,6 +23,9 @@
             "scripts": [
                 "underscore.js"
             ],
+            "files": [
+                "underscore-min.js"
+            ],
             "shim": {
                 "exports": "_"
             }
