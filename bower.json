@@ -15,7 +15,7 @@
     "url": "git://github.com/documentcloud/underscore.git"
   },
   "version": "1.4.4",
-  "scripts": [
+  "main": [
     "underscore.js"
   ]
 }
