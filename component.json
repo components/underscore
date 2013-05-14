@@ -12,6 +12,7 @@
   ],
   "author": "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "version": "1.4.4",
+  "main": "underscore.js",
   "scripts": [
     "underscore.js"
   ]
