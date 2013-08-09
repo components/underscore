@@ -15,5 +15,5 @@
     "url": "git://github.com/components/underscore.git"
   },
   "main": "underscore.js",
-  "version": "1.4.4"
+  "version": "1.5.0"
 }
