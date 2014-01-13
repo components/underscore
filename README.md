@@ -1,5 +1,5 @@
-Bootstrap
-=========
+Underscore
+==========
 
 Shim repository for [Underscore.js](http://underscorejs.org).
 
