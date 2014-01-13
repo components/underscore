@@ -2,6 +2,7 @@
   "name": "components-underscore",
   "description": "JavaScript's functional programming helper library. Shim repository.",
   "homepage": "http://underscorejs.org",
+  "version": "1.5.2",
   "keywords": [
     "util",
     "functional",
@@ -14,6 +15,5 @@
     "type": "git",
     "url": "git://github.com/components/underscore.git"
   },
-  "main": "underscore.js",
-  "version": "1.5.2"
+  "main": "underscore.js"
 }

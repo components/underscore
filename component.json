@@ -15,5 +15,9 @@
   "main": "underscore.js",
   "scripts": [
     "underscore.js"
+  ],
+  "files": [
+    "underscore-min.js",
+    "underscore-min.map"
   ]
 }

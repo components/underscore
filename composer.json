@@ -24,7 +24,8 @@
                 "underscore.js"
             ],
             "files": [
-                "underscore-min.js"
+                "underscore-min.js",
+                "underscore-min.map"
             ],
             "shim": {
                 "exports": "_"

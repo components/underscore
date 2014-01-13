@@ -2,6 +2,7 @@
   "name": "underscore",
   "description": "JavaScript's functional programming helper library.",
   "homepage": "http://documentcloud.github.com/underscore/",
+  "version": "1.5.2",
   "keywords": [
     "util",
     "functional",
@@ -14,8 +15,13 @@
     "type": "git",
     "url": "git://github.com/documentcloud/underscore.git"
   },
-  "version": "1.5.2",
   "main": [
     "underscore.js"
+  ],
+  "ignore": [
+    "component.json",
+    "composer.json",
+    "package.json",
+    ".gitignore"
   ]
 }
