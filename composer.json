@@ -15,9 +15,6 @@
             "email": "jeremy@documentcloud.org"
         }
     ],
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "scripts": [
